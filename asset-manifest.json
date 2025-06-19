@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CVPM/static/css/main.6fd153bb.css",
+    "main.js": "/CVPM/static/js/main.f6150164.js",
+    "index.html": "/CVPM/index.html",
+    "main.6fd153bb.css.map": "/CVPM/static/css/main.6fd153bb.css.map",
+    "main.f6150164.js.map": "/CVPM/static/js/main.f6150164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd153bb.css",
+    "static/js/main.f6150164.js"
+  ]
+}
