@@ -1,0 +1,110 @@
+{
+  "head": {
+    "name": "Samal Ali",
+    "location": "Astana, Kazakhstan",
+    "email": "samalalib@gmail.com",
+    "phone_Number": "+7 (701) 305-45-12",
+    "links": [
+      "https://www.linkedin.com/in/samal-ali-05606a163/"
+    ]
+  },
+  "content": [
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "header1": "Eco-Flow",
+          "header2": "Project manager",
+          "location": "Astana, Kazakhstan",
+          "duration": "November 2023 – January 2025",
+          "text": [
+            "Led team of 6, delivering 6+ projects on time using Scrum methodology.",
+            "Improved delivery speed by 20% through process improvements and better sprint planning.",
+            "Achieved 97% on-time delivery, and tracked KPIs and milestones with dashboards.",
+            "Led training sessions and workshops, improving team collaboration."
+          ]
+        },
+        {
+          "header1": "iQadam Systems",
+          "header2": "Junior Project Manager",
+          "location": "Astana, Kazakhstan",
+          "duration": "February 2025 – May 2025",
+          "text": [
+            "Coordinated developers, designers, QA, SMM specialists.",
+            "Delivered 2 projects ahead of schedule by optimizing resource allocation.",
+            "Built risk management plans that cut project delays by 20%.",
+            "Used Trello, Jira and YouTrack to manage backlogs, sprints, and team workloads."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "header1": "Astana IT University",
+          "header2": "Bachelor Degree, Software Engineering. GPA - 3.55",
+          "location": "Astana, Kazakhstan",
+          "duration": "Sept 1, 2022 – June 30, 2025",
+          "text": [
+            "Relevant Coursework: Project management, Technological entrepreneurship, Business Process Modeling."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leadership & Activities",
+      "items": [
+        {
+          "header1": "AITU Choir — Astana IT University",
+          "header2": "Co-founder and Operations Coordinator",
+          "location": "Astana, Kazakhstan",
+          "duration": "September 2023 – August 2024",
+          "text": [
+            "Helped launch the club from scratch, built operational structure and internal workflows.",
+            "Delegated responsibilities, managed staff for events",
+            "Oversaw daily coordination and communication within the team"
+          ]
+        },
+        {
+          "header1": "Nazarbayev Intellectual School of Physics and Mathematics, Aktobe ",
+          "header2": "President of the Student Council",
+          "location": "Aktobe, Kazakhstan",
+          "duration": "September 2021 – June 2022",
+          "text": [
+            "Organized over 10 events for 700+ students at city and national level",
+            "Led a diverse team of 50+ students (designers, activists, content creators)",
+            "Built partnerships with 4+ organizations for student engagement projects"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills & Interests",
+      "items": [
+        {
+          "header1": "",
+          "header2": "Technical",
+          "location": "",
+          "duration": "",
+          "text": [
+            "Management Tools: Jira, Trello, YouTrack",
+            "Documentation Tools: Notion, Google Workspace, MS Office",
+            "Version Control & Dev Collaboration: Git, GitHub, GitLab"
+          ]
+        },
+        {
+          "header1": "",
+          "header2": "Language",
+          "location": "",
+          "duration": "",
+          "text": [
+            "Kazakh, Russian - Native",
+            "English - Advanced",
+            "German, Turkish – Intermediate"
+          ]
+        }
+      ]
+    }
+  ]
+}
