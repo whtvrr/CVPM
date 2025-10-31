@@ -19,11 +19,10 @@
             "location": "Astana, Kazakhstan",
             "duration": "July 2022 – September 2024",
             "text": [
-              "Managed 6-8 cross-functional projects (web platforms, CRM systems, IoT solutions) from planning to delivery, ensuring 98% on-time release rate.",
-              "Supervised a team of 6 developers, designers, and QA, improving sprint velocity by 25% through enhanced backlog prioritization.",
-              "Reduced project delivery cycle from 4.5 to 3.5 weeks using workflow automation and sprint retrospectives.",
-              "Oversaw client communication, budget tracking, and KPI reporting via Notion & Jira dashboards.",
-              "Conducted 10+ internal workshops on Agile practices, boosting team satisfaction by 30%."
+              "Delivered 8+ cross-functional projects (web, CRM, IoT) with 98% on-time release rate.",
+              "Improved sprint velocity by 25% via backlog and workflow optimization.",
+              "Reduced delivery cycle from 4.5 to 3.5 weeks using automation and retrospectives.",
+              "Managed client communication, budgets, and KPI dashboards (Jira, Notion)."
             ]
           },
           {
@@ -32,11 +31,10 @@
             "location": "Astana, Kazakhstan",
             "duration": "September 2024 – July 2025",
             "text": [
-              "Coordinated a distributed team of 10+ specialists (frontend, backend, QA, design, marketing) delivering B2B SaaS and EdTech platforms.",
-              "Delivered 3 key releases ahead of schedule, optimizing resource allocation and milestone tracking.",
-              "Built risk management system and change-log documentation reducing scope creep by ~20%.",
-              "Introduced Agile reporting templates (Jira + Confluence) improving project transparency for stakeholders.",
-              "Contributed to product backlog refinement and UX review processes, strengthening collaboration between tech and business units."
+              "Coordinated 10+ specialists on B2B SaaS and EdTech projects.",
+              "Delivered 3 key releases ahead of schedule; cut scope creep by ~20%.",
+              "Introduced Agile reporting templates (Jira + Confluence) for stakeholders.",
+              "Supported product backlog refinement and UX reviews across teams."
             ]
           }
         ]
@@ -66,26 +64,15 @@
         "title": "Leadership & Activities",
         "items": [
           {
-            "header1": "Astana IT University",
-            "header2": "Co-founder and Operations Coordinator",
-            "location": "Astana, Kazakhstan",
-            "duration": "September 2022 – June 2025",
+            "header1": "",
+            "header2": "",
+            "location": "",
+            "duration": "",
             "text": [
-              "Co-founded and helped launch a student club from scratch, designing its operational structure and internal workflows.",
-              "Delegated responsibilities and coordinated cross-functional teams to deliver successful student events and initiatives.",
-              "Managed staff for university-level projects and improved communication efficiency within the team."
-            ]
-          },
-          {
-            "header1": "Nazarbayev Intellectual School of Physics and Mathematics, Aktobe",
-            "header2": "President of the Student Council",
-            "location": "Aktobe, Kazakhstan",
-            "duration": "September 2021 – June 2022",
-            "text": [
-              "Organized and supervised 20+ large-scale events engaging over 700 participants at city and national levels.",
-              "Led and mentored a 50+ member team of designers, activists, and content creators.",
-              "Established partnerships with 4+ external organizations to support student and community engagement projects.",
-              "Actively participated in cultural, educational, and volunteer programs aimed at leadership and collaboration development."
+              "Co-founded a student club; designed operations and event workflows.",
+              "Organized 20+ events with 700+ participants at city and national levels.",
+              "Led and mentored a 50+ member cross-functional student team.",
+              "Built partnerships with 4+ external organizations for engagement initiatives."
             ]
           }
         ]
@@ -95,49 +82,15 @@
         "items": [
           {
             "header1": "",
-            "header2": "Management Tools",
+            "header2": "Skills",
             "location": "",
             "duration": "",
             "text": [
-              "Jira, Trello, YouTrack, Notion, Google Workspace, MS Office"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Programming",
-            "location": "",
-            "duration": "",
-            "text": [
-              "JavaScript (Node.js), Python, React, HTML/CSS, Bootstrap, Golang, C, Java"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Database Management",
-            "location": "",
-            "duration": "",
-            "text": [
-              "MongoDB, PostgreSQL"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Version Control & Collaboration",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Git, GitHub, GitLab"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Languages",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Kazakh & Russian - Native",
-              "English - Advanced",
-              "German & Turkish - Intermediate"
+              "Management: Jira, Trello, YouTrack, Notion, Google Workspace, MS Office;",
+              "Programming: JavaScript (Node.js), Python, React, Golang, HTML/CSS, C, Java;",
+              "Databases: MongoDB, PostgreSQL;",
+              "Version Control: Git, GitHub, GitLab;",
+              "Languages: Kazakh & Russian (Native), English (Advanced), German & Turkish (Intermediate)"
             ]
           }
         ]
@@ -146,7 +99,7 @@
   },
   "ru": {
     "head": {
-      "name": "Самал Әли",
+      "name": "Самал Али",
       "location": "Астана, Казахстан",
       "email": "samalalib@gmail.com",
       "phone_Number": "+7 (701) 305-45-12",
@@ -164,11 +117,10 @@
             "location": "Астана, Казахстан",
             "duration": "Июль 2022 – Сентябрь 2024",
             "text": [
-              "Руководила реализацией 6-8 кросс-функциональных проектов (веб-платформы, CRM-системы, IoT-решения) от планирования до внедрения, обеспечив 98% своевременных релизов.",
-              "Координировала работу 6 специалистов (разработчики, дизайнеры, QA), повысив скорость выполнения спринтов на 25%.",
-              "Сократила средний цикл поставки проекта с 4,5 до 3,5 недель за счёт оптимизации процессов и автоматизации рабочих потоков.",
-              "Отслеживала KPI и бюджеты, организовывала коммуникацию с заказчиками через Jira и Notion-дашборды.",
-              "Провела более 10 внутренних тренингов по Agile, повысив удовлетворённость команды на 30%."
+              "Реализовала 8+ кросс-функциональных проектов (web, CRM, IoT) с 98% своевременных релизов.",
+              "Повысила скорость спринтов на 25% за счёт оптимизации бэклога и процессов.",
+              "Сократила цикл поставки с 4,5 до 3,5 недель благодаря автоматизации и ретроспективам.",
+              "Вела коммуникацию с клиентами, бюджеты и KPI-дашборды (Jira, Notion)."
             ]
           },
           {
@@ -177,11 +129,10 @@
             "location": "Астана, Казахстан",
             "duration": "Сентябрь 2024 – Июль 2025",
             "text": [
-              "Координировала распределённую команду из 10+ специалистов (frontend, backend, QA, дизайн, маркетинг) при разработке B2B SaaS и EdTech-платформ.",
-              "Завершила 3 крупных релиза раньше срока, оптимизировав планирование задач и загрузку ресурсов.",
-              "Разработала систему управления рисками, снизив отклонения по срокам и объёму работ на 20%.",
-              "Внедрила шаблоны отчётности Agile (Jira + Confluence) для прозрачности прогресса перед заказчиками.",
-              "Участвовала в приоритизации product backlog и UX-ревью, способствуя более тесному взаимодействию между технической и бизнес-командами."
+              "Координировала 10+ специалистов на проектах B2B SaaS и EdTech.",
+              "Достигла 3 релизов раньше срока; сократила scope creep ~на 20%.",
+              "Внедрила шаблоны отчётности Agile (Jira + Confluence) для стейкхолдеров.",
+              "Участвовала в приоритизации product backlog и UX-ревью между командами."
             ]
           }
         ]
@@ -211,26 +162,15 @@
         "title": "Лидерство и активность",
         "items": [
           {
-            "header1": "Astana IT University",
-            "header2": "Соосновательница и координатор операций",
-            "location": "Астана, Казахстан",
-            "duration": "Сентябрь 2022 – Июнь 2025",
+            "header1": "",
+            "header2": "",
+            "location": "",
+            "duration": "",
             "text": [
-              "Соосновала и запустила студенческий клуб, разработав его операционную структуру и внутренние процессы.",
-              "Делегировала задачи, координировала команды при проведении мероприятий и студенческих инициатив.",
-              "Управляла персоналом университетских проектов и улучшила эффективность коммуникации внутри команды."
-            ]
-          },
-          {
-            "header1": "Nazarbayev Intellectual School of Physics and Mathematics, Актобе",
-            "header2": "Президент Студенческого совета",
-            "location": "Актобе, Казахстан",
-            "duration": "Сентябрь 2021 – Июнь 2022",
-            "text": [
-              "Организовала и курировала более 20 масштабных событий с вовлечением 700+ участников на городском и национальном уровне.",
-              "Руководила и наставляла команду из 50+ участников (дизайнеры, активисты, контент-создатели).",
-              "Наладила партнёрства с 4+ внешними организациями для поддержки образовательных и общественных проектов.",
-              "Активно участвовала в культурных, образовательных и волонтёрских программах, развивая лидерство и командное взаимодействие."
+              "Соосновала студенческий клуб; выстроила операционные и событийные процессы.",
+              "Организовала 20+ мероприятий с участием 700+ человек на городском и национальном уровнях.",
+              "Руководила и наставляла команду из 50+ участников.",
+              "Сформировала партнёрства с 4+ внешними организациями."
             ]
           }
         ]
@@ -240,49 +180,15 @@
         "items": [
           {
             "header1": "",
-            "header2": "Инструменты управления",
+            "header2": "Skills",
             "location": "",
             "duration": "",
             "text": [
-              "Jira, Trello, YouTrack, Notion, Google Workspace, MS Office"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Программирование",
-            "location": "",
-            "duration": "",
-            "text": [
-              "JavaScript (Node.js), Python, React, HTML/CSS, Bootstrap, Golang, C, Java"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Базы данных",
-            "location": "",
-            "duration": "",
-            "text": [
-              "MongoDB, PostgreSQL"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Контроль версий и совместная разработка",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Git, GitHub, GitLab"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Языки",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Казахский и Русский - родные",
-              "Английский - продвинутый",
-              "Немецкий и Турецкий - средний уровень"
+              "Инструменты: Jira, Trello, YouTrack, Notion, Google Workspace, MS Office;",
+              "Программирование: JavaScript (Node.js), Python, React, Golang, HTML/CSS, C, Java;",
+              "Базы данных: MongoDB, PostgreSQL;",
+              "Контроль версий: Git, GitHub, GitLab;",
+              "Языки: Казахский и Русский (родные), Английский (Advanced), Немецкий и Турецкий (Intermediate)"
             ]
           }
         ]
@@ -309,11 +215,10 @@
             "location": "Астана, Қазақстан",
             "duration": "Шілде 2022 – Қыркүйек 2024",
             "text": [
-              "6-8 кросс-функционалды жобаны (веб-платформалар, CRM жүйелері, IoT шешімдері) жоспарлаудан бастап енгізуге дейін басқарды, 98% уақытылы жеткізу көрсеткішіне қол жеткізді.",
-              "6 маманнан (әзірлеушілер, дизайнерлер, QA) құралған команданы үйлестіріп, спринт жылдамдығын 25%-ға арттырды.",
-              "Жұмыс процестерін оңтайландыру арқылы жобаларды жеткізу циклін 4,5 аптадан 3,5 аптаға дейін қысқартты.",
-              "Jira және Notion арқылы KPI, бюджет және клиенттік коммуникацияларды бақылап отырды.",
-              "10+ ішкі Agile тренингтерін өткізді, команда қанағаттанушылығын 30%-ға арттырды."
+              "8+ кросс-функционалды жобаны (web, CRM, IoT) 98% уақытында жеткізді.",
+              "Бэклог пен процестерді оңтайландырып, спринт жылдамдығын 25% арттырды.",
+              "Автоматтандыру және ретроспективалар арқылы жеткізу циклін 4,5-тен 3,5 аптаға қысқартты.",
+              "Клиенттермен байланыс, бюджет және KPI дашбордтарын (Jira, Notion) басқарды."
             ]
           },
           {
@@ -322,11 +227,10 @@
             "location": "Астана, Қазақстан",
             "duration": "Қыркүйек 2024 – Шілде 2025",
             "text": [
-              "10+ маманнан тұратын (frontend, backend, QA, дизайн, маркетинг) бөлінген команданы үйлестіріп, B2B SaaS және EdTech платформаларын әзірлеу жобаларын басқарды.",
-              "3 негізгі релизді мерзімінен бұрын аяқтады, ресурстарды тиімді бөлу арқылы.",
-              "Тәуекелдерді басқару жүйесін енгізіп, мерзім мен көлем бойынша ауытқуларды 20%-ға азайтты.",
-              "Agile есеп беру үлгілерін (Jira + Confluence) енгізу арқылы тапсырыс берушілер үшін ашықтықты арттырды.",
-              "Product backlog пен UX шолуларына қатысып, техникалық және бизнес бөлімдер арасындағы өзара әрекетті күшейтті."
+              "B2B SaaS және EdTech жобаларында 10+ маманнан тұратын команданы үйлестірді.",
+              "3 негізгі релизді мерзімінен бұрын шығарды; scope creep ~20% азайтты.",
+              "Agile есеп беру үлгілерін (Jira + Confluence) енгізді.",
+              "Product backlog пен UX шолуларына қатысып, шешім қабылдауға ықпал етті."
             ]
           }
         ]
@@ -356,26 +260,15 @@
         "title": "Көшбасшылық және белсенділік",
         "items": [
           {
-            "header1": "Astana IT University",
-            "header2": "Бірлесіп құрушы және операциялық үйлестіруші",
-            "location": "Астана, Қазақстан",
-            "duration": "Қыркүйек 2022 – Маусым 2025",
+            "header1": "",
+            "header2": "",
+            "location": "",
+            "duration": "",
             "text": [
-              "Студенттік клубты бірге құрып, оның ішкі құрылымын және операциялық процестерін әзірледі.",
-              "Міндеттерді бөліп, командалық жұмысты және іс-шараларды ұйымдастыруды үйлестірді.",
-              "Университеттік деңгейдегі жобаларды басқарып, команда ішіндегі коммуникация тиімділігін арттырды."
-            ]
-          },
-          {
-            "header1": "Nazarbayev Intellectual School of Physics and Mathematics, Ақтөбе",
-            "header2": "Студенттік кеңес төрағасы",
-            "location": "Ақтөбе, Қазақстан",
-            "duration": "Қыркүйек 2021 – Маусым 2022",
-            "text": [
-              "700+ қатысушысы бар 20+ ауқымды іс-шараны қалалық және ұлттық деңгейде өткізді.",
-              "50+ студенттен (дизайнерлер, белсенділер, контент жасаушылар) құралған команданы басқарды және тәлімгерлік жасады.",
-              "4+ ұйыммен серіктестік орнатып, білім беру және қауымдастық жобаларын қолдады.",
-              "Көшбасшылық пен командалық дағдыларды дамыту мақсатында мәдени, білім беру және еріктілік бастамаларға белсенді қатысты."
+              "Студенттік клубты бірлесіп құрды; операциялық және іс-шара процестерін қалыптастырды.",
+              "700+ қатысушысы бар 20+ іс-шара ұйымдастырды (қалалық/ұлттық деңгей).",
+              "50+ студенттен тұратын команданы басқарды және тәлімгерлік жасады.",
+              "4+ сыртқы ұйыммен серіктестік орнатты."
             ]
           }
         ]
@@ -385,49 +278,15 @@
         "items": [
           {
             "header1": "",
-            "header2": "Басқару құралдары",
+            "header2": "Skills",
             "location": "",
             "duration": "",
             "text": [
-              "Jira, Trello, YouTrack, Notion, Google Workspace, MS Office"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Бағдарламалау",
-            "location": "",
-            "duration": "",
-            "text": [
-              "JavaScript (Node.js), Python, React, HTML/CSS, Bootstrap, Golang, C, Java"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Деректер қорларын басқару",
-            "location": "",
-            "duration": "",
-            "text": [
-              "MongoDB, PostgreSQL"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Нұсқаларды бақылау және бірлескен әзірлеу",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Git, GitHub, GitLab"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Тілдер",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Қазақ және Орыс - ана тілі",
-              "Ағылшын - жоғары деңгей",
-              "Неміс және Түрік - орта деңгей"
+              "Басқару құралдары: Jira, Trello, YouTrack, Notion, Google Workspace, MS Office;",
+              "Бағдарламалау: JavaScript (Node.js), Python, React, Golang, HTML/CSS, C, Java;",
+              "Деректер қоры: MongoDB, PostgreSQL;",
+              "Нұсқа бақылау: Git, GitHub, GitLab;",
+              "Тілдер: Қазақ және Орыс (ана тілі), Ағылшын (Advanced), Неміс және Түрік (Intermediate)"
             ]
           }
         ]
