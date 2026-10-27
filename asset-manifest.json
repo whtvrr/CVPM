@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CVPM/static/css/main.5b103563.css",
-    "main.js": "/CVPM/static/js/main.63d29e47.js",
+    "main.js": "/CVPM/static/js/main.a28f9f06.js",
     "index.html": "/CVPM/index.html",
     "main.5b103563.css.map": "/CVPM/static/css/main.5b103563.css.map",
-    "main.63d29e47.js.map": "/CVPM/static/js/main.63d29e47.js.map"
+    "main.a28f9f06.js.map": "/CVPM/static/js/main.a28f9f06.js.map"
   },
   "entrypoints": [
     "static/css/main.5b103563.css",
-    "static/js/main.63d29e47.js"
+    "static/js/main.a28f9f06.js"
   ]
 }
