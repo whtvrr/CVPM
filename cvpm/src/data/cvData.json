@@ -14,6 +14,20 @@
         "title": "Experience",
         "items": [
           {
+            "header1": "Bolashaq Engineering LLP",
+            "header2": "Product Manager | Project Manager | Business Analyst | Business Development Manager",
+            "location": "Astana, Kazakhstan",
+            "duration": "November 2025 – Present",
+            "text": [
+              "Manage the development and delivery of EdTech, GovTech and B2B products, combining product management, project management, business analysis and business development responsibilities.",
+              "Lead the development of Aqparattyq Sana, a corporate LMS: identify customer needs and product priorities, maintain the roadmap and backlog, and coordinate development, testing and learning content preparation.",
+              "Gather and analyze stakeholder requirements, prepare technical and functional specifications, and align solutions with development teams and stakeholders.",
+              "Contributed to the integration of the Torelik judicial system with government information systems by analyzing workflows, defining data exchange and service requirements, and coordinating with integration teams.",
+              "Build relationships with corporate and government clients by identifying their needs and participating in product presentations, demonstrations, proposals and solution discussions.",
+              "Coordinate communication between clients and the project team, track tasks and maintain project documentation using Jira and Trello."
+            ]
+          },
+          {
             "header1": "Eco-Flow",
             "header2": "Project Manager",
             "location": "Astana, Kazakhstan",
@@ -43,8 +57,8 @@
         "title": "Education",
         "items": [
           {
-            "header1": "Nazarbayev University - School of Engineering and Digital Sciences",
-            "header2": "Master of Science in Robotics",
+            "header1": "Nazarbayev University, School of Engineering and Digital Sciences",
+            "header2": "Master of Science in Robotics (GPA 3.34)",
             "location": "Astana, Kazakhstan",
             "duration": "August 2025 – May 2027",
             "text": []
@@ -112,6 +126,20 @@
         "title": "Опыт работы",
         "items": [
           {
+            "header1": "ТОО Bolashaq Engineering",
+            "header2": "Product Manager | Project Manager | Business Analyst | Business Development Manager",
+            "location": "Астана, Казахстан",
+            "duration": "Ноябрь 2025 – настоящее время",
+            "text": [
+              "Управляю развитием и реализацией IT-продуктов в сферах EdTech, GovTech и B2B, объединяя функции продуктового и проектного управления, бизнес-анализа и развития бизнеса.",
+              "Веду развитие корпоративной LMS Aqparattyq Sana: определяю потребности клиентов и приоритеты продукта, формирую roadmap и бэклог, координирую разработку, тестирование и подготовку обучающего контента.",
+              "Собираю и анализирую требования заказчиков, разрабатываю технические задания и функциональные спецификации, согласовываю решения с командой разработки и заинтересованными сторонами.",
+              "Участвовала в проектах интеграции судебной системы «Төрелік» с государственными информационными системами: прорабатывала бизнес-процессы, состав передаваемых данных, требования к сервисам и взаимодействие с интеграционными командами.",
+              "Развиваю отношения с корпоративными и государственными заказчиками: выявляю потребности, участвую в презентациях и демонстрациях продукта, подготовке предложений и согласовании решений.",
+              "Координирую коммуникацию между заказчиками и командой, отслеживаю выполнение задач и поддерживаю проектную документацию в Jira и Trello."
+            ]
+          },
+          {
             "header1": "Eco-Flow",
             "header2": "Project Manager",
             "location": "Астана, Казахстан",
@@ -142,7 +170,7 @@
         "items": [
           {
             "header1": "Nazarbayev University, School of Engineering and Digital Sciences",
-            "header2": "Магистр наук в области робототехники (MSc in Robotics)",
+            "header2": "Магистр наук в области робототехники (MSc in Robotics) (GPA 3.34)",
             "location": "Астана, Казахстан",
             "duration": "Август 2025 – Май 2027",
             "text": []
@@ -210,6 +238,20 @@
         "title": "Жұмыс тәжірибесі",
         "items": [
           {
+            "header1": "«Bolashaq Engineering» ЖШС",
+            "header2": "Product Manager | Project Manager | Business Analyst | Business Development Manager",
+            "location": "Астана, Қазақстан",
+            "duration": "Қараша 2025 – қазіргі уақытқа дейін",
+            "text": [
+              "EdTech, GovTech және B2B салаларындағы IT-өнімдердің дамуы мен іске асырылуын басқарамын; өнім және жоба менеджменті, бизнес-талдау және бизнесті дамыту міндеттерін атқарамын.",
+              "Aqparattyq Sana корпоративтік LMS платформасының дамуын жүргіземін: клиенттердің қажеттіліктері мен өнімнің басымдықтарын анықтаймын, roadmap пен backlog қалыптастырамын, әзірлеу, тестілеу және оқу контентін дайындау жұмыстарын үйлестіремін.",
+              "Тапсырыс берушілердің талаптарын жинап, талдаймын; техникалық тапсырмалар мен функционалдық спецификацияларды дайындаймын, шешімдерді әзірлеу командасымен және мүдделі тараптармен келісемін.",
+              "«Төрелік» сот жүйесін мемлекеттік ақпараттық жүйелермен интеграциялау жобаларына қатыстым: бизнес-процестерді, берілетін деректер құрамын және сервистерге қойылатын талаптарды пысықтап, интеграциялық командалармен өзара жұмысты үйлестірдім.",
+              "Корпоративтік және мемлекеттік тапсырыс берушілермен қарым-қатынасты дамытамын: олардың қажеттіліктерін анықтап, өнім презентациялары мен демонстрацияларына, ұсыныстарды дайындауға және шешімдерді келісуге қатысамын.",
+              "Тапсырыс берушілер мен команда арасындағы коммуникацияны үйлестіремін, тапсырмалардың орындалуын қадағалап, Jira және Trello жүйелерінде жобалық құжаттаманы жүргіземін."
+            ]
+          },
+          {
             "header1": "Eco-Flow",
             "header2": "Жобалар менеджері (Project Manager)",
             "location": "Астана, Қазақстан",
@@ -240,7 +282,7 @@
         "items": [
           {
             "header1": "Nazarbayev University, School of Engineering and Digital Sciences",
-            "header2": "Робототехника магистрі (Master of Science in Robotics)",
+            "header2": "Робототехника магистрі (Master of Science in Robotics) (GPA 3.34)",
             "location": "Астана, Қазақстан",
             "duration": "Тамыз 2025 – Мамыр 2027",
             "text": []
